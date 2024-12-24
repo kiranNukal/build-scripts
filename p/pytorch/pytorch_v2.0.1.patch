@@ -1,3 +1,6 @@
+From 894a0a37a9a70e93d4cad38d805953eef8513fc9 Mon Sep 17 00:00:00 2001
+From: Deepali Chourasia <deepch23@in.ibm.com>
+Date: Thu, 6 Apr 2023 11:04:49 +0000
 Subject: [PATCH] fallback to cpu_kernel with VSX
 
 ---
